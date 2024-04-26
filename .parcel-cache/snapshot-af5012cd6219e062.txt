@@ -1,0 +1,4 @@
+3
+48C:\Users\rinal\Documents\robo\teste\js\script.js133571872049858922 0
+38C:\Users\rinal\Documents\robo\teste\js133571868989673060 1
+46C:\Users\rinal\Documents\robo\teste\index.html133571870569066907 0
